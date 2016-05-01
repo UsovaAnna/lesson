@@ -6,7 +6,7 @@ import java.util.Scanner;
 /**
  * Created by admin on 26.04.2016.
  */
-public class Lecture3_ScanAndPrint {
+public class Lecture3_02_Number {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         scanner.useLocale(Locale.US);
