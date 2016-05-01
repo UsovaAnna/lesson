@@ -16,9 +16,9 @@
     <file url="file://$PROJECT_DIR$/src/lesson/lesson_04/Lecture4_02_Commands.java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/src/lesson/lesson_04/Lecture4_03_SumNumbers.java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/src/lesson/lesson_04/Lecture4_04_SumEvenNumbers.java" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/src/lesson/lesson_04/Lecture4_05_AverageWithFor.java" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/src/lesson/lesson_04/Lecture4_06_AverageWithWhile.java" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/src/lesson/lesson_04/Lecture4_07_AverageWithDoWhile.java" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/src/lesson/lesson_04/Lecture4_08_EvenAverage.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/lesson/lesson_04/Lecture4_05_AverageWithWhile.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/lesson/lesson_04/Lecture4_06_AverageWithDoWhile.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/lesson/lesson_04/Lecture4_07_EvenAverage.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/lesson/lesson_05/Lecture5_04_AverageWithFor.java" charset="UTF-8" />
   </component>
 </project>

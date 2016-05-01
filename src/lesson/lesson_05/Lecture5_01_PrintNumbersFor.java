@@ -3,7 +3,7 @@ package lesson.lesson_05;
 /**
  * Created by admin on 27.04.2016.
  */
-public class Lecture5_PrintNumbersFor {
+public class Lecture5_01_PrintNumbersFor {
     public static void main(String[] args) {
         for(int i = 0; i <= 100; i++){
             System.out.print(i + " ");

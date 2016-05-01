@@ -1,9 +1,9 @@
-package lesson.lesson_04;
+package lesson.lesson_05;
 
 /**
  * Created by admin on 26.04.2016.
  */
-public class Lecture4_05_AverageWithFor {
+public class Lecture5_04_AverageWithFor {
     public static void main(String[] args) {
         int firstNumber = 1;
         int lastNumber = 100;

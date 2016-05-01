@@ -3,7 +3,7 @@ package lesson.lesson_04;
 /**
  * Created by admin on 26.04.2016.
  */
-public class Lecture4_06_AverageWithWhile {
+public class Lecture4_06_AverageWithDoWhile {
     public static void main(String[] args) {
         int firstNumber = 1; // первое значение в последовательности
         int lastNumber = 100; // последнее значение
@@ -15,11 +15,11 @@ public class Lecture4_06_AverageWithWhile {
         /*
            считаем сумму чисел в последовательности и их количесво
          */
-        while (curNumber <= lastNumber){
+        do {
             sum += curNumber;
             count++;
             curNumber++;
-        }
+        } while (curNumber <= lastNumber);
 
         double average = (double) sum / count; // находим среднее арифметическое
         System.out.println("Среднее арифметическое: " + average);
