@@ -4,7 +4,7 @@ package lesson.lesson_01;
  * Created by admin on 23.04.2016.
  */
 
-public class Lecture1_ComplexExpression {
+public class Lecture1_01_ComplexExpression {
     public static void main(String[] args) {
         int b = 2;
         int c = 8;

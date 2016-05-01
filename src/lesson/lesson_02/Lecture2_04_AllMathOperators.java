@@ -3,7 +3,7 @@ package lesson.lesson_02;
 /**
  * Created by admin on 23.04.2016.
  */
-public class Lecture2_AllMathOperators {
+public class Lecture2_04_AllMathOperators {
     public static void main(String[] args) {
         int a;
         double d;

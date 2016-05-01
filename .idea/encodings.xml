@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="Encoding">
-    <file url="file://$PROJECT_DIR$/src/lesson/lesson_01/Lecture1_ComplexExpression.java" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/src/lesson/lesson_02/Lecture2_AllMathOperators.java" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/src/lesson/lesson_02/Lecture2_CalcAndPrint.java" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/src/lesson/lesson_02/Lecture2_CircleSquare.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/lesson/lesson_01/Lecture1_01_ComplexExpression.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/lesson/lesson_02/Lecture2_01_LineSeparator.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/lesson/lesson_02/Lecture2_02_DateAndPath.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/lesson/lesson_02/Lecture2_03_Expression.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/lesson/lesson_02/Lecture2_04_AllMathOperators.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/lesson/lesson_02/Lecture2_05_CircleSquare.java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/src/lesson/lesson_02/Lecture2_CircleSquareWithComments.java" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/src/lesson/lesson_02/Lecture2_DateAndPath.java" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/src/lesson/lesson_02/Lecture2_LineSeparator.java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/src/lesson/lesson_02/Lecture2_RectangleSquare.java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/src/lesson/lesson_02/Lecture2_RectangleSquareAndPrintF.java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/src/lesson/lesson_03/Lecture3_ScanAndPrint.java" charset="UTF-8" />
