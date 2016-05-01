@@ -3,7 +3,7 @@ package lesson.lesson_04;
 /**
  * Created by admin on 26.04.2016.
  */
-public class Lecture4_SumNumbers {
+public class Lecture4_03_SumNumbers {
     public static void main(String[] args) {
         int firstNumber = 0;
         int lastNumber = 9;

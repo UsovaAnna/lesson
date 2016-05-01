@@ -6,7 +6,7 @@ import java.util.Scanner;
 /**
  * Created by admin on 26.04.2016.
  */
-public class Lecture4_Commands {
+public class Lecture4_02_Commands {
     public static void main(String[] args) {
         final String PRINT_COMMAND = "print";
         final String SUM_COMMAND = "sum";

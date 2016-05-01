@@ -6,7 +6,7 @@ import java.util.Scanner;
 /**
  * Created by admin on 26.04.2016.
  */
-public class Lecture4_DoublesEqual {
+public class Lecture4_01_DoublesEqual {
     public static void main(String[] args) {
         double epsilon = 0.00001;
         Scanner scanner = new Scanner(System.in);

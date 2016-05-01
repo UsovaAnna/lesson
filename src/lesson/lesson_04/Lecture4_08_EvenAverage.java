@@ -3,7 +3,7 @@ package lesson.lesson_04;
 /**
  * Created by admin on 26.04.2016.
  */
-public class Lecture4_EvenAverage {
+public class Lecture4_08_EvenAverage {
     public static void main(String[] args) {
         int firstNumber = 1;
         int lastNumber = 100;

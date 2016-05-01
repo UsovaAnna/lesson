@@ -3,7 +3,7 @@ package lesson.lesson_04;
 /**
  * Created by admin on 26.04.2016.
  */
-public class Lecture4_SumEvenNumbers {
+public class Lecture4_04_SumEvenNumbers {
     public static void main(String[] args) {
         int firstNumber = 3;
         int lastNumber = 21;
