@@ -3,7 +3,7 @@ package lesson.lesson_02;
 /**
  * Created by admin on 23.04.2016.
  */
-public class Lecture2_CircleSquareWithComments {
+public class Lecture2_06_CircleSquareWithComments {
     public static void main(String[] args) {
         double radius = 7.8; // радиус окружности
 
