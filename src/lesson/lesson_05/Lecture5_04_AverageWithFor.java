@@ -11,7 +11,7 @@ public class Lecture5_04_AverageWithFor {
         int sum = 0;
         int count = 0;
 
-        for (int i = firstNumber; i <= lastNumber; i++){
+        for (int i = firstNumber; i <= lastNumber; i++) {
             sum += i;
             count++;
         }

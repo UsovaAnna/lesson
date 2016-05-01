@@ -15,7 +15,7 @@ public class Lecture4_05_AverageWithWhile {
         /*
            считаем сумму чисел в последовательности и их количесво
          */
-        while (curNumber <= lastNumber){
+        while (curNumber <= lastNumber) {
             sum += curNumber;
             count++;
             curNumber++;

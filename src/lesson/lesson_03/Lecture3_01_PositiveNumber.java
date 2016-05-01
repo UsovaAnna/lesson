@@ -14,7 +14,7 @@ public class Lecture3_01_PositiveNumber {
         System.out.print("Введите число: ");
         int number = scanner.nextInt();
 
-        if(number > 0){
+        if (number > 0) {
             System.out.println("Число " + number + " - положительное");
         }
     }

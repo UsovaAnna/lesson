@@ -17,9 +17,9 @@ public class Lecture4_01_DoublesEqual {
         System.out.print("Введите второе число: ");
         double secondNumber = scanner.nextDouble();
         // сравнение вещественных чисел
-        if(Math.abs(firstNumber - secondNumber) < epsilon){
+        if (Math.abs(firstNumber - secondNumber) < epsilon) {
             System.out.println("Числа " + firstNumber + ", " + secondNumber + " равны.");
-        }else{
+        } else {
             System.out.println("Числа " + firstNumber + ", " + secondNumber + " не равны.");
         }
     }
