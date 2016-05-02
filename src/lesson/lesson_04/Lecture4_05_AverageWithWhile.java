@@ -12,9 +12,7 @@ public class Lecture4_05_AverageWithWhile {
         int sum = 0;
         int count = 0;
 
-        /*
-           считаем сумму чисел в последовательности и их количесво
-         */
+        // считаем сумму чисел в последовательности и их количесво
         while (curNumber <= lastNumber) {
             sum += curNumber;
             count++;
