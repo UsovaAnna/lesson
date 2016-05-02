@@ -9,7 +9,6 @@ public class Lecture2_06_CircleSquareWithComments {
 
         /*S = Pi * radius^2*/
         double square = Math.PI * Math.pow(radius, 2);
-
         System.out.println("Radius: " + radius + ", square: " + square); // печать в консоль
     }
 }
