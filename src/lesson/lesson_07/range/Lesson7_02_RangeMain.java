@@ -3,7 +3,7 @@ package lesson.lesson_07.range;
 /**
  * Created by admin on 17.05.2016.
  */
-public class RangeMain {
+public class Lesson7_02_RangeMain {
     public static void main(String[] args) {
         Range range = new Range(7.2, 45.9);
         System.out.printf("Длина диапозона: %.2f%n", range.calcLength());
