@@ -8,9 +8,6 @@ import java.util.Scanner;
  */
 public class Lecture4_02_Commands {
     public static void main(String[] args) {
-        final String PRINT_COMMAND = "print";
-        final String SUM_COMMAND = "sum";
-
         Scanner scanner = new Scanner(System.in);
         scanner.useLocale(Locale.US);
         System.out.println("Эта программа выполняет команды. Доступные команды: print, sum.");
@@ -18,12 +15,12 @@ public class Lecture4_02_Commands {
         String command = scanner.nextLine();
 
         switch (command) {
-            case PRINT_COMMAND:
+            case "print":
                 System.out.print("Введите строку: ");
                 String line = scanner.nextLine();
                 System.out.println("Введенная строка: " + line);
                 break;
-            case SUM_COMMAND:
+            case "sum":
                 System.out.print("Введите первое число: ");
                 double firstNumber = scanner.nextDouble();
                 System.out.print("Введите второе число: ");
