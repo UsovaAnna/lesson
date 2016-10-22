@@ -15,15 +15,8 @@ public class Lesson_9_04_findNumberInArray {
         int index = findNumberIndex(arrayDouble, number);
         printNumberAndIndex(number, index);
 
-        number = 27;
-        index = findNumberIndex(arrayDouble, number);
-        printNumberAndIndex(number, index);
-
-
         double average = calcAverageOfEvenNumbers(arrayInt);
         System.out.println("average of even numbers: " + average);
-
-        System.out.println("");
     }
 
     private static void printNumberAndIndex(double number, int index) {
