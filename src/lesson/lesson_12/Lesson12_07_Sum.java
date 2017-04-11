@@ -1,9 +1,9 @@
-package lesson.lesson_11;
+package lesson.lesson_12;
 
 /**
  * Created by admin on 12.06.2016.
  */
-public class Lesson11_07_Sum {
+public class Lesson12_07_Sum {
     public static void main(String[] args) {
         final String numbersLine = "1, 2, 3, 5";
         String [] numbersAsStringArray = numbersLine.split(", ");

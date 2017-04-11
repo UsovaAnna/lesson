@@ -1,4 +1,4 @@
-package lesson.lesson_11;
+package lesson.lesson_12;
 
 import java.io.FileInputStream;
 import java.io.FileNotFoundException;
@@ -7,11 +7,11 @@ import java.util.Scanner;
 /**
  * Created by admin on 12.06.2016.
  */
-public class Lesson11_06_CalcSubstringCount {
+public class Lesson12_06_CalcSubstringCount {
     public static void main(String[] args) {
         try (Scanner scanner = new Scanner(
                 new FileInputStream(
-                        "src/lesson/lesson_11/lineInput.txt"))) {
+                        "src/lesson/lesson_12/lineInput.txt"))) {
             StringBuilder builder = new StringBuilder();
             while (scanner.hasNext()) {
                 builder.append(scanner.nextLine()).append(System.lineSeparator());

@@ -1,9 +1,9 @@
-package lesson.lesson_12;
+package lesson.lesson_10;
 
 /**
  * Created by admin on 02.06.2016.
  */
-public class Lesson12_01_Pow {
+public class Lesson10_01_Pow {
     public static void main(String[] args) {
         System.out.printf("%d^%d = %d%n", 2, 4, pow(2, 4));
         System.out.printf("%d^%d = %d%n", 5, 3, powRecursive(5, 3));

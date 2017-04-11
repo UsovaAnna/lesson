@@ -1,4 +1,4 @@
-package lesson.lesson_11;
+package lesson.lesson_12;
 
 import java.io.FileInputStream;
 import java.util.Locale;
@@ -7,7 +7,7 @@ import java.util.Scanner;
 /**
  * Created by admin on 26.04.2016.
  */
-public class Lesson11_02_PositiveNumber_ReadFile {
+public class Lesson12_02_PositiveNumber_ReadFile {
     public static void main(String[] args) {
         /**
          * создайте текстовый файл, рядом с этим файлом
@@ -15,7 +15,7 @@ public class Lesson11_02_PositiveNumber_ReadFile {
          */
         try(Scanner scanner = new Scanner(
                 new FileInputStream(
-                        "src/lesson/lesson_11/numberInput.txt"))) {
+                        "src/lesson/lesson_12/numberInput.txt"))) {
             scanner.useLocale(Locale.US);
 
             System.out.print("Введите число: ");

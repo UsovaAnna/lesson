@@ -1,9 +1,9 @@
-package lesson.lesson_11;
+package lesson.lesson_12;
 
 /**
  * Created by admin on 12.06.2016.
  */
-public class Lesson11_05_Url {
+public class Lesson12_05_Url {
     public static void main(String[] args) {
         final String url = "http://SomeServerName/abcd/";
         final String prefix = "://";
