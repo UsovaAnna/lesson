@@ -11,14 +11,12 @@ import java.util.Scanner;
 public class Lesson12_03_ReadAndWrite {
     public static void main(String[] args) {
 
-        try(Scanner scanner = new Scanner(
-                new FileInputStream(
-                        "src/lesson/lesson_12/lineInput.txt"));
-            PrintWriter writer = new PrintWriter("src/lesson/lesson_12/lineOutput.txt")){
-          while(scanner.hasNext()){
-              String line = scanner.nextLine();
-              writer.println(line.toUpperCase());
-          }
+        try (Scanner scanner = new Scanner(new FileInputStream("lineInput.txt"));
+             PrintWriter writer = new PrintWriter("lineOutput.txt")) {
+            while (scanner.hasNext()) {
+                String line = scanner.nextLine();
+                writer.println(line.toUpperCase());
+            }
         } catch (FileNotFoundException e) {
             e.printStackTrace();
         }

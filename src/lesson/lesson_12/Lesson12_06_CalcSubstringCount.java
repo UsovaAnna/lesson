@@ -10,8 +10,7 @@ import java.util.Scanner;
 public class Lesson12_06_CalcSubstringCount {
     public static void main(String[] args) {
         try (Scanner scanner = new Scanner(
-                new FileInputStream(
-                        "src/lesson/lesson_12/lineInput.txt"))) {
+                new FileInputStream("lineInput.txt"))) {
             StringBuilder builder = new StringBuilder();
             while (scanner.hasNext()) {
                 builder.append(scanner.nextLine()).append(System.lineSeparator());
